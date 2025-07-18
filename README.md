@@ -1,54 +1,79 @@
-# Welcome to My GitHub Profile! 👨‍💻
+# Hanzlah Yasir
 
-Hello! I'm a passionate software developer and AI enthusiast, currently working on various innovative projects. I specialize in web development, with expertise in building full-stack applications using technologies like React.js, Node.js, MongoDB, and Express.js, as well as working on data science and machine learning projects. My focus is always on creating efficient and scalable systems that make a difference.
+**Data & AI Engineer | Full‑Stack Web Developer**
 
-## ⚡ Quick Overview
+📍 Pakistan · ✉️ hanzlahyasir@gmail.com · 📱 +92 302 5707484  
+[LinkedIn](https://linkedin.com/in/hanzlah-yasir) · [GitHub](https://github.com/hanzlahyasir)
 
-- **Current Focus**: Working on projects involving AI, NLP, and data analysis, including sentiment analysis and finance automation.
-- **Languages & Technologies**:
-  - Full-stack development: React.js, Node.js, Express.js, MongoDB, and Django.
-  - AI & Machine Learning: Python, TensorFlow, Keras, NLP, and deep learning.
-  - Tools: Git, Docker, Jenkins, Postman, and many more.
-- **AI Projects**: Exploring NLP tasks, including sentiment detection in Roman Urdu and English, and building models for text prediction and analysis.
-- **Web Development**: Creating web platforms like university management systems, finance automation systems, and car buying/selling platforms.
+---
 
-## 🚀 Featured Projects
+## 👋 About Me
 
-### 1. **Universe - University Management System**
-   - A comprehensive system for managing student notes, teacher attendance, leave requests, grading, and more.
-   - Built with **React.js** for the frontend and **Node.js** with **Express.js** for the backend.
-   - MongoDB is used for data storage to ensure scalability and flexibility.
+I’m a recent Computer Science graduate (GPA 3.48/4.0) from the University of Education, Lahore Jauharabad, with a passion for building intelligent automation and robust web applications. I’ve honed my skills through freelance projects and an internship where I:
 
-### 2. **AI Sentiment Analysis**
-   - An NLP-based sentiment analysis application that detects negative and positive sentiments from comments.
-   - Implements deep learning techniques using **TensorFlow** and **Keras** to handle both English and Roman Urdu text.
+- Developed Python‑based automation bots (web scraping, OCR) and containerized deployments.  
+- Built end‑to‑end NLP pipelines using LSTM and GloVe embeddings in TensorFlow/Keras.  
+- Created full‑stack solutions with Next.js/React, Node.js/Express, and Django, backed by MongoDB/MySQL .
 
-### 3. **Finance Automation System**
-   - A platform to digitize university finance operations, transforming traditional processes into a web-based solution.
-   - Exploring **Supabase** and **DuckDB** as database options to ensure more storage and reduced costs.
+I love tackling real‑world problems with clean, maintainable code and am always eager to learn new tools and frameworks.
 
-## 🎯 Goals and Aspirations
+---
 
-- Continuously pushing the boundaries of AI by exploring new research areas, especially in **Natural Language Processing** and **deep learning**.
-- Aiming to enhance my expertise in **full-stack development** while learning about new technologies like **Web3** and **blockchain**.
-- Transitioning into **freelancing** to work on data analysis, web scraping, and automation projects for clients across various industries.
+## 🔧 Technical Skills
 
-## 📚 Currently Learning
+### Languages & Frameworks
+- **Python** (NumPy, Pandas, Scikit‑Learn, TensorFlow/Keras, SpaCy, NLTK)  
+- **JavaScript/TypeScript** (Next.js, React, Redux Toolkit, Express)  
+- **Web** (HTML5, CSS3, Tailwind CSS, DaisyUI)  
 
-- **Advanced NLP** techniques for handling misspelled words, sarcasm, and context-based sentiment analysis.
-- Exploring more about **Finance Systems** and how automation can streamline university operations.
+### Databases & DevOps
+- **Databases:** MongoDB (Mongoose), MySQL (Prisma), PostgreSQL, SQLite  
+- **Scraping & Automation:** BeautifulSoup, Playwright, Selenium, EasyOCR, curl_cffi  
+- **Deployment:** Docker, Ubuntu Droplets  
 
-## 💼 Let's Connect!
+---
 
-I'm always open to collaborating on interesting projects, and I'm actively looking for freelance opportunities in **AI**, **web scraping**, and **data analysis**.
+## 💼 Professional Experience
 
-- **LinkedIn**: [hanzlah](https://www.linkedin.com/in/hanzlah-yasir-1354921a0/)
-- **Email**: [hanzlahyasir@gmail.com](mailto:hanzlahyasir@gmail.com)
+**Freelance Automation Developer**  
+_May 2025 – Present_  
+- Built a Python Telegram‑bot that scrapes multiple e‑commerce categories hourly using BeautifulSoup, EasyOCR, and Playwright.  
+- Emulated consistent TLS fingerprints with `curl_cffi` and deployed via Docker on Ubuntu.
 
-## 🌱 Fun Facts
+**Machine Learning & Django Intern**, Software Pattern (Islamabad)  
+_Jul 2024 – Aug 2024_  
+- Processed 1 million+ English & Roman Urdu sentences for abusive‑language detection, applying tokenization, stemming/lemmatization, and spell‑checking to capture intentional misspellings.  
+- Trained custom LSTM networks and fine‑tuned pre‑trained BERT embeddings for classification tasks; built Django interfaces for image‑processing modules (face detection/recognition, object detection) using OpenCV :contentReference[oaicite:1]{index=1}.
 
-- I enjoy solving complex problems, whether it's through coding or by researching AI topics.
-- I'm currently working on improving my **project architecture** design skills and aiming to become a better problem solver in the AI space.
-- Despite being a bit lazy at times, I always ensure my work is impactful and efficient.
+---
 
-Feel free to check out my repositories and contribute to any project that sparks your interest!
+## 🚀 Selected Projects
+
+### LSTM‑Powered Sentiment Classification Pipeline  
+[GitHub Repo](https://github.com/hanzlahyasir/nlp_with_nn.git)  
+- End‑to‑end sentiment analysis on IMDB reviews (50K samples) with custom text‑cleaning, GloVe embeddings, and TensorFlow/Keras LSTM; optimized preprocessing with joblib.  
+- Visualized training curves and automated embedding downloads via Git LFS integration :contentReference[oaicite:2]{index=2}.
+
+### Automated Finance Solutions for UE Jauharabad Campus  
+- Full‑stack Next.js application with MySQL (Prisma), Tailwind CSS & DaisyUI for digitizing procurement, inventory, mail tracking, and budgeting workflows.  
+- Designed modular data schemas, implemented secure API routes, and created responsive dashboards.
+
+---
+
+## 🎓 Education
+
+**University of Education, Lahore Jauharabad**  
+Bachelor of Science in Computer Science (GPA 3.46/4.0) · Nov 2021 – May 2025
+
+**Superior Group of Colleges, Jauharabad**  
+Intermediate, Pre‑Engineering (943 / 1100) · May 2019 – Oct 2021
+---
+
+## 📜 Certifications
+
+- **MongoDB with Node.js** (MongoDB University)  
+- **Certified MongoDB Database Developer** (MongoDB University)
+
+---
+
+*Thanks for visiting my profile, feel free to reach out.*
