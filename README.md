@@ -1,79 +1,46 @@
-# Hanzlah Yasir
+# Hi there, I'm Hanzlah Yasir
 
-**Data & AI Engineer | Full‑Stack Web Developer**
+### Data Analyst & Storyteller | Turning Raw Data into Actionable Insights
 
-📍 Pakistan · ✉️ hanzlahyasir@gmail.com · 📱 +92 302 5707484  
-[LinkedIn](https://linkedin.com/in/hanzlah-yasir) · [GitHub](https://github.com/hanzlahyasir)
-
----
-
-## 👋 About Me
-
-I’m a recent Computer Science graduate (GPA 3.48/4.0) from the University of Education, Lahore Jauharabad, with a passion for building intelligent automation and robust web applications. I’ve honed my skills through freelance projects and an internship where I:
-
-- Developed Python‑based automation bots (web scraping, OCR) and containerized deployments.  
-- Built end‑to‑end NLP pipelines using LSTM and GloVe embeddings in TensorFlow/Keras.  
-- Created full‑stack solutions with Next.js/React, Node.js/Express, and Django, backed by MongoDB/MySQL .
-
-I love tackling real‑world problems with clean, maintainable code and am always eager to learn new tools and frameworks.
+Grounded in a Computer Science background, I've pivoted my focus to the world of data analytics. I'm driven by the process of transforming complex, raw datasets into clear, compelling narratives that lead to smarter, data-driven business decisions. I don't just find the "what", I build the story that explains the "why."
 
 ---
 
-## 🔧 Technical Skills
+## 🎬 Featured Project: Moneyball for Movies
 
-### Languages & Frameworks
-- **Python** (NumPy, Pandas, Scikit‑Learn, TensorFlow/Keras, SpaCy, NLTK)  
-- **JavaScript/TypeScript** (Next.js, React, Redux Toolkit, Express)  
-- **Web** (HTML5, CSS3, Tailwind CSS, DaisyUI)  
+My flagship project is a deep-dive analysis into the film industry, designed to build a strategic playbook for an independent studio. The goal: find the formula for a "sleeper hit."
 
-### Databases & DevOps
-- **Databases:** MongoDB (Mongoose), MySQL (Prisma), PostgreSQL, SQLite  
-- **Scraping & Automation:** BeautifulSoup, Playwright, Selenium, EasyOCR, curl_cffi  
-- **Deployment:** Docker, Ubuntu Droplets  
+* Analyzed a dataset of over 5,400 films to uncover the key drivers of **Return on Investment (ROI)**.
+* Performed extensive data cleaning and feature engineering to prepare the raw data for analysis.
+* Developed a narrative-driven Jupyter Notebook (`the_theatre.ipynb`) to tell the story of the analysis.
+* Delivered a **1-page executive summary** with actionable recommendations for non-technical stakeholders.
 
----
-
-## 💼 Professional Experience
-
-**Freelance Automation Developer**  
-_May 2025 – Present_  
-- Built a Python Telegram‑bot that scrapes multiple e‑commerce categories hourly using BeautifulSoup, EasyOCR, and Playwright.  
-- Emulated consistent TLS fingerprints with `curl_cffi` and deployed via Docker on Ubuntu.
-
-**Machine Learning & Django Intern**, Software Pattern (Islamabad)  
-_Jul 2024 – Aug 2024_  
-- Processed 1 million+ English & Roman Urdu sentences for abusive‑language detection, applying tokenization, stemming/lemmatization, and spell‑checking to capture intentional misspellings.  
-- Trained custom LSTM networks and fine‑tuned pre‑trained BERT embeddings for classification tasks; built Django interfaces for image‑processing modules (face detection/recognition, object detection) using OpenCV :contentReference[oaicite:1]{index=1}.
+**[➡️ View the full analysis and the executive summary in the project repository.](https://github.com/hanzlahyasir/moneyball_for_movies)** 
 
 ---
 
-## 🚀 Selected Projects
+## 💡 My Current Focus
 
-### LSTM‑Powered Sentiment Classification Pipeline  
-[GitHub Repo](https://github.com/hanzlahyasir/nlp_with_nn.git)  
-- End‑to‑end sentiment analysis on IMDB reviews (50K samples) with custom text‑cleaning, GloVe embeddings, and TensorFlow/Keras LSTM; optimized preprocessing with joblib.  
-- Visualized training curves and automated embedding downloads via Git LFS integration :contentReference[oaicite:2]{index=2}.
+I'm currently honing my skills and building projects focused on the complete data analysis lifecycle:
 
-### Automated Finance Solutions for UE Jauharabad Campus  
-- Full‑stack Next.js application with MySQL (Prisma), Tailwind CSS & DaisyUI for digitizing procurement, inventory, mail tracking, and budgeting workflows.  
-- Designed modular data schemas, implemented secure API routes, and created responsive dashboards.
+* **Data Analysis & Visualization:** Using `Pandas`, `Matplotlib`, and `Seaborn` to explore datasets and uncover hidden patterns.
+* **Data Cleaning & Preprocessing:** Mastering the art of transforming messy, real-world data into a clean, analysis-ready state.
+* **Storytelling with Data:** Building clear, compelling narratives and creating executive-level summaries that translate insights into action.
 
 ---
 
-## 🎓 Education
+## 🛠️ My Toolkit
 
-**University of Education, Lahore Jauharabad**  
-Bachelor of Science in Computer Science (GPA 3.46/4.0) · Nov 2021 – May 2025
-
-**Superior Group of Colleges, Jauharabad**  
-Intermediate, Pre‑Engineering (943 / 1100) · May 2019 – Oct 2021
----
-
-## 📜 Certifications
-
-- **MongoDB with Node.js** (MongoDB University)  
-- **Certified MongoDB Database Developer** (MongoDB University)
+* **Languages:** `Python`
+* **Data Science:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Jupyter Notebook`
+* **Tools:** `Git`, `GitHub`, `PyCharm`
 
 ---
 
-*Thanks for visiting my profile, feel free to reach out.*
+## 📫 Let's Connect
+
+I'm always open to connecting with fellow data enthusiasts, learning about new opportunities, or discussing how data can solve complex problems.
+
+* **LinkedIn:** [Hanzlah on LinkedIn](https://www.linkedin.com/in/hanzlah-yasir/)
+* **Coursera:** [Hanzlah on Coursera](https://www.coursera.org/learner/hanzlah)
+* **Email:** `hanzlahyasir@gmail.com`
