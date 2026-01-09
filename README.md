@@ -1,46 +1,66 @@
-# Hi there, I'm Hanzlah Yasir
+# Hi there, I'm Rana Hanzlah Yasir! 👋
 
-### Data Analyst & Storyteller | Turning Raw Data into Actionable Insights
+### 🚀 Python Backend Architect | Data Engineer | AI Builder
 
-Grounded in a Computer Science background, I've pivoted my focus to the world of data analytics. I'm driven by the process of transforming complex, raw datasets into clear, compelling narratives that lead to smarter, data-driven business decisions. I don't just find the "what", I build the story that explains the "why."
+I don't just write scripts; I architect systems that bridge the gap between **Data Science** and **Production Engineering**.
 
----
-
-## 🎬 Featured Project: Moneyball for Movies
-
-My flagship project is a deep-dive analysis into the film industry, designed to build a strategic playbook for an independent studio. The goal: find the formula for a "sleeper hit."
-
-* Analyzed a dataset of over 5,400 films to uncover the key drivers of **Return on Investment (ROI)**.
-* Performed extensive data cleaning and feature engineering to prepare the raw data for analysis.
-* Developed a narrative-driven Jupyter Notebook (`the_theatre.ipynb`) to tell the story of the analysis.
-* Delivered a **1-page executive summary** with actionable recommendations for non-technical stakeholders.
-
-**[➡️ View the full analysis and the executive summary in the project repository.](https://github.com/hanzlahyasir/moneyball_for_movies)** 
+As a **Computer Science Graduate (2025)** and **Google Certified Professional**, I specialize in the full Python lifecycle—from extracting raw data to deploying high-concurrency APIs. My goal is to build software that is not just functional, but scalable, secure, and maintainable.
 
 ---
 
-## 💡 My Current Focus
+### 🛠️ Tech Stack
 
-I'm currently honing my skills and building projects focused on the complete data analysis lifecycle:
-
-* **Data Analysis & Visualization:** Using `Pandas`, `Matplotlib`, and `Seaborn` to explore datasets and uncover hidden patterns.
-* **Data Cleaning & Preprocessing:** Mastering the art of transforming messy, real-world data into a clean, analysis-ready state.
-* **Storytelling with Data:** Building clear, compelling narratives and creating executive-level summaries that translate insights into action.
-
----
-
-## 🛠️ My Toolkit
-
-* **Languages:** `Python`
-* **Data Science:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Jupyter Notebook`
-* **Tools:** `Git`, `GitHub`, `PyCharm`
+| **Backend Engineering** | **Data & AI** | **Infrastructure & Tools** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) | ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) | ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white) |
 
 ---
 
-## 📫 Let's Connect
+### 🔭 Featured Projects
 
-I'm always open to connecting with fellow data enthusiasts, learning about new opportunities, or discussing how data can solve complex problems.
+#### ⚡ **[Scalable FastAPI Backend Template](https://github.com/hanzlahyasir)**
+*A production-ready asynchronous REST API boilerplate.*
+- **Tech:** FastAPI, Motor (MongoDB), AsyncIO, JWT Auth.
+- **Key Feature:** Implemented connection pooling and background tasks to handle high concurrency with low latency.
 
-* **LinkedIn:** [Hanzlah on LinkedIn](https://www.linkedin.com/in/hanzlah-yasir/)
-* **Coursera:** [Hanzlah on Coursera](https://www.coursera.org/learner/hanzlah)
-* **Email:** `hanzlahyasir@gmail.com`
+#### 📊 **[Moneyball for Movies: ROI Analysis](https://github.com/hanzlahyasir)**
+*Automated ETL pipeline and statistical analysis.*
+- **Tech:** Python, Pandas, Matplotlib.
+- **Key Feature:** Processed 5,400+ records, handling schema inconsistencies and calculating complex financial correlations (Budget vs. Revenue).
+
+#### 🤖 **[Sentiment Analysis & Deep Learning](https://github.com/hanzlahyasir)**
+*Benchmarking Neural Networks for text classification.*
+- **Tech:** TensorFlow, Keras, LSTM, CNN.
+- **Key Feature:** Engineered a high-throughput data pipeline and compared multiple architectures to optimize inference speed.
+
+---
+
+### 🏆 Certifications
+
+* **Google Advanced Data Analytics** (Coursera)
+* **Google IT Automation with Python** (Coursera)
+* **Google AI Essentials** (Coursera)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanzlahyasir&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzlahyasir&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="languages" />
+</div>
+
+---
+
+### 📫 Connect with me
+
+I am open to opportunities in **Python Backend Development**, **Data Engineering**, and **AI/ML**.
+
+<p align="left">
+<a href="https://www.linkedin.com/in/hanzlah-yasir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanzlah-yasir" height="30" width="40" /></a>
+<a href="mailto:hanzlahyasir@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="hanzlahyasir@gmail.com" height="30" width="40" /></a>
+</p>
